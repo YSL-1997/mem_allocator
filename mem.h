@@ -1,3 +1,6 @@
+#ifndef MEM_H_
+#define MEM_H_
+
 #include <stdio.h>
 #include <sys/mman.h>
 #include <sys/types.h>
